@@ -1,8 +1,8 @@
 // testi_1
 
-class TestClass
+public class TestClass
 {
-	private int sausageAmount;
+	public int sausageAmount;
 
 	sausageAmount = 3;
 }
